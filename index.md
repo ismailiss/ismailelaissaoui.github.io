@@ -2,10 +2,11 @@
 
 ## Expériences Professionnelles
 
-
 ### 07/2021-02/2022 | Travailler chez OMNISHORE – Ingénieur Projet .NET– Casablanca
+
 - EVCAT : Outil de gestion des sinistres de type évènements catastrophiques.
 Mission : Développeur Full-stack .NET, Outils : Azure Devops, Microservices, ASP.NET CORE, C#, Entity Framework, Web API, Ocelot, Razor, SQL Server.
+
 ### 11/2019-06/2021 | Travailler chez VISION BUSINESS CONSULTING –Ingénieur d’étude et de développement .NET– Casablanca
 - Assur'RISK : Concevoir un outil permettant de connaître le niveau d’exposition aux dangers potentiels relatifs aux sites des clients et prospects de Saham Assurance.
 Dématérialiser la gestion et l’élaboration des rapports d’évaluation.
@@ -28,10 +29,12 @@ Outils : .NET, C#, ASP.NET CORE, Entity Framework, DevExpress, WebForms, Web API
 Sujet : Conception et réalisation d'une application de gestion des marchés.
 
 Outils: JAVA/JEE, Spring, Hibernate, JSF, PRIMEFACES, Maven.
+
 ### 03/2016-07/2016 | Stage de fin d'études chez IT & Business Consulting– Casablanca
 Sujet : Mise en œuvre d’une solution informatique de gestion des pharmacies.
 
 Outils: JAVA/JEE, Struts2, Spring, JPA, Hibernate, JSTL.
+
 ### 07/2015-08/2015 | Stage au Ministère des Affaires Générales et de la Gouvernance – Rabat
 Sujet : Développement d'une application d'automatisation de tableau de bord du personnel.
 
