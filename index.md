@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# ISMAIL ELAISSAOUI ingénieur d’étude et de développement .NET
 
-You can use the [editor on GitHub](https://github.com/ismailiss/ismailelaissaoui.github.io-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 07/2021-02/2022 | Travailler chez OMNISHORE – Ingénieur Projet .NET– Casablanca
+-EVCAT : Outil de gestion des sinistres de type évènements catastrophiques.
+Mission : Développeur Full-stack .NET, Outils : Azure Devops, Microservices, ASP.NET CORE, C#, Entity Framework, Web API, Ocelot, Razor, SQL Server.## Header 2
+## 11/2019-06/2021 | Travailler chez VISION BUSINESS CONSULTING –Ingénieur d’étude et de développement .NET– Casablanca
+- Assur'RISK : Concevoir un outil permettant de connaître le niveau d’exposition aux dangers potentiels relatifs aux sites des clients et prospects de Saham Assurance.
+Dématérialiser la gestion et l’élaboration des rapports d’évaluation.
+Mission : Développeur back-end .NET, Outils : ASP.NET CORE, C#, Entity Framework, Web API, Ocelot, LINQ, Postgresql, Git, SonarQube, Selenium.
+- AutonoME : Automate de bibliothèque qui permet à un utilisateur de louer, restituer et se renseigner sur des documents en totale autonomie. Un projet pour le compte de
+Nedap France.
+Mission: Développeur Full-stack, Outils : ASP.NET CORE, C#, Web API, React js, Ocelot, LINQ, Postgresql, Git.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 10/2017-10/2019 | Travailler chez INFOCL - Ingénieur d’étude et de développement .NET–Casablanca
+Étude, Analyse, Conception et mise en œuvre des logiciels de gestion :
+-SMART ORDRE : Application de gestion du conseil de l’ordre des architectes.
+-INFOURBA : Plateforme de dématérialisation des procédures de l’urbanisme pour les communes.
+-INFO PATRIMOINE : Application de gestion du patrimoine communal.
+-e.AUTORISATIONS : Plateforme de dématérialisation des autorisations commerciales, des autorisations d'occupation du domaine public pour les services économiques des
+communes. Outils : .NET, C#, ASP.NET CORE, Entity Framework, DevExpress, WebForms, Web API, HTML, jQuery, AJAX, CSS, Bootstrap, Syncfusion, T-SQL, LINQ, SQL Server, MySql, SVN.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Étude, Analyse, Conception et mise en œuvre des logiciels de gestion :
+-SMART ORDRE : Application de gestion du conseil de l’ordre des architectes.
+-INFOURBA : Plateforme de dématérialisation des procédures de l’urbanisme pour les
+communes.
+-INFO PATRIMOINE : Application de gestion du patrimoine communal.
+-e.AUTORISATIONS : Plateforme de dématérialisation des autorisations commerciales,
+des autorisations d'occupation du domaine public pour les services économiques des
+communes. Outils : .NET, C#, ASP.NET CORE, Entity Framework, DevExpress, WebForms,
+Web API, HTML, jQuery, AJAX, CSS, Bootstrap, Syncfusion, T-SQL, LINQ, SQL Server,
+MySql, SVN.
+## 02/2017-04/2017 | Stage à la Trésorerie Générale du Royaume – Rabat
+Sujet : Conception et réalisation d'une application de gestion des marchés
+Outils: JAVA/JEE, Spring, Hibernate, JSF, PRIMEFACES, Maven.
+## 03/2016-07/2016 | Stage de fin d'études chez IT & Business Consulting– Casablanca
+Sujet : Mise en œuvre d’une solution informatique de gestion des pharmacies
+Outils: JAVA/JEE, Struts2, Spring, JPA, Hibernate, JSTL.
+## 07/2015-08/2015 | Stage au Ministère des Affaires Générales et de la Gouvernance – Rabat
+ Sujet : Développement d'une application d'automatisation de tableau de bord du
+personnel.
+Outils : ASP.NET, C#, WebForms, HTML, CSS, SQL Server
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ismailiss/ismailelaissaoui.github.io-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
